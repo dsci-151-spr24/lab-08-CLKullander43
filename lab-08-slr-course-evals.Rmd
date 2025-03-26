@@ -1,6 +1,7 @@
 ---
 title: "Lab 8 - Grading the professor, Pt. 1"
 subtitle: "Modelling with a single predictor"
+author: "Caeden Kullander"
 output: html_document
 link-citations: true
 ---
@@ -68,6 +69,7 @@ You can also find this information [here](https://www.openintro.org/data/index.p
     Is this what you expected to see?
     Why, or why not?
     Include any summary statistics and visualizations you use in your response.
+
 
 2.  Visualize and describe the relationship between `score` and `bty_avg`.
 
